@@ -10,7 +10,23 @@ namespace ConsoleApp_Tar_pv21
 	{
 		static void Main(string[] args)
 		{
-			 //}
+		/*Console.WriteLine("Mis pikkus sa oled? => ");
+            float pikk = float.Parse(Console.ReadLine());
+            Console.WriteLine("Sa oled naine või mees? (mees=1)(naine=2)");
+            int pol = int.Parse(Console.ReadLine());
+            if (pikk<=160)
+            {
+                Console.WriteLine("Sa oled lühike.");
+            }
+            else if (pikk < 160 || pikk > 190 )
+            {
+                Console.WriteLine("Sa oled keskmine.");
+            }
+            else if (pikk>=190)
+            {
+                Console.WriteLine("Sa oled pikk.");
+            }
+			 //}//}
                 //int plosad = 0;
                 //Console.WriteLine("Длина первой стены ");
                 //int dlina1 = int.Parse(Console.ReadLine());
